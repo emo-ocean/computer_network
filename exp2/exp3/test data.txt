@@ -1,0 +1,3 @@
+Enter IP header (in hexadecimal): 45000030442200004006c9ac0a80102c0a80101
+Enter TCP/UDP pseudo header (in hexadecimal):0a0a010101010101010101010101
+Enter TCP/UDP header (in hexadecimal): 4500003c00000000801100007f0000017f000001001f90
